@@ -1,0 +1,3 @@
+Project name : Budget Planner
+
+Project description : A budget creator and spending tracker aimed at catering for university students
